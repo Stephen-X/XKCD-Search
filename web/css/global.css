@@ -1,0 +1,21 @@
+/* 
+    Just some rudimentary styles.
+
+    Author: Stephen Xie <***@andrew.cmu.edu>
+*/
+
+form {
+    margin-top: 1rem;
+}
+
+.info {
+    max-width: 30rem;
+    padding: 1rem;
+    border: 1px solid black;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    margin-top: 2rem;
+}
